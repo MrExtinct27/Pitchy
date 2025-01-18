@@ -26,3 +26,21 @@ Pitchy is a platform where founders can list their startups and promote their vi
 - **ShadCN**
 - **TypeScript**
 - **NextAuth (GitHub provider)**
+
+## Folder Structure
+```
+📦 Pitchy
+├── app/
+│   ├── (root)/
+│   ├── api/
+│   ├── fonts/
+│   └── studio/
+├── components/
+│   └── ui/
+├── hooks/
+├── lib/
+├── public/
+└── sanity/
+├── lib/
+└── schemaTypes/
+```
